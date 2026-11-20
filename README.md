@@ -6,7 +6,7 @@ A collection of computational fluid mechanics and hydraulic engineering models w
 
 | Module | Description | Key Concepts |
 | :--- | :--- | :--- |
-| **[01 — Head Loss Comparison](.01_Hazen_Williams_VS_Darcy_Weisbach)** | Parametric benchmark comparing empirical vs. physics-based friction loss models across turbulent flow regimes ($Re \approx 6.34 \times 10^4$ to $2.54 \times 10^5$). | Hazen-Williams, Darcy-Weisbach, Swamee-Jain explicit friction factor, pipe roughness ($\epsilon/d$) |
+| **[01 — Head Loss Comparison]([.01_Hazen_Williams_VS_Darcy_Weisbach](github.com/tutorbosun/hydraulics-python/tree/main/01_Hazen_Williams_VS_Darcy_Weisbach)** | Parametric benchmark comparing empirical vs. physics-based friction loss models across turbulent flow regimes ($Re \approx 6.34 \times 10^4$ to $2.54 \times 10^5$). | Hazen-Williams, Darcy-Weisbach, Swamee-Jain explicit friction factor, pipe roughness ($\epsilon/d$) |
 | **[02 — Pump Duty Point Analysis](./02_pump_duty_point)** | Numerical determination of the steady-state operating point for a centrifugal pump coupled to a pressurized piping system. | System resistance curves, pump performance interpolation, duty point intersection |
 
 ## Dependencies & Setup
