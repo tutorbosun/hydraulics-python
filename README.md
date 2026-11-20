@@ -21,7 +21,7 @@ pip install numpy matplotlib
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com<your-username>/hydraulics-python.git
+   git clone https://github.com/tutorbosun/hydraulics-python.git
    cd hydraulics-python
    ```
 2. Navigate into any module folder and run the Python script or Jupyter Notebook to reproduce the numerical tables and high-resolution plots.
